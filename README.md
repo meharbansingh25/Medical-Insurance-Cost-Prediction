@@ -62,13 +62,19 @@ This project analyzes medical insurance data and predicts insurance charges usin
 
 ![Heatmap](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%206%20Correlation%20Heatmap.png)
 
+---
+
 ## Smoker vs Insurance Charges
 
 ![Smoker vs Charges](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%203%20Smoker%20vs%20Charges%20Chart.png)
 
+---
+
 ## Feature Importance (Model Insights)
 
 ![Feature Importance](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%209%20Feature%20Importance%20Visualization.png)
+
+---
 
 ## Actual vs Predicted Charges Visualization
 
@@ -78,3 +84,5 @@ This project analyzes medical insurance data and predicts insurance charges usin
 
 ## Conclusion
 This project demonstrates practical skills in data analysis, visualization, feature engineering, and machine learning using Python. The Linear Regression model achieved good prediction accuracy and successfully identified important factors affecting medical insurance charges.
+
+---
