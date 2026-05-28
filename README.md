@@ -1,5 +1,5 @@
 # Medical Insurance Cost Prediction
-
+---
 ## Tools Used
 - Python
 - NumPy
