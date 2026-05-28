@@ -36,5 +36,6 @@ This project predicts medical insurance charges using machine learning technique
 
 ![Feature Importance](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%209%20Feature%20Importance%20Visualization.png)
 
+## Actual vs Predicted Charges Visualization
 
-![](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%2011%20%20Actual%20vs%20Predicted%20Scatterplot.png)
+![Actual vs Predicted Charges](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%2011%20%20Actual%20vs%20Predicted%20Scatterplot.png)
