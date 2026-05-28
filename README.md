@@ -23,3 +23,15 @@ This project predicts medical insurance charges using machine learning technique
 - Smokers have higher insurance charges
 - Obesity increases medical costs
 - Age impacts insurance expenses
+
+## Correlation Heatmap
+
+![Heatmap](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%206%20Correlation%20Heatmap.png)
+
+## Smoker vs Insurance Charges
+
+![Smoker vs Charges](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%203%20Smoker%20vs%20Charges%20Chart.png)
+
+## 📊 Feature Importance (Model Insights)
+
+![Feature Importance](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%209%20Feature%20Importance%20Visualization.png)
