@@ -75,10 +75,10 @@ These engineered features helped provide deeper insights into customer health pr
 ---
 
 ## Libraries Used
-* Pandas → Data analysis and manipulation
-* NumPy → Statistical calculations and numerical operations
-* Matplotlib & Seaborn → Data visualization
-* Scikit-learn → Machine learning model development and evaluation 
+* **Pandas** → Data analysis and manipulation
+* **NumPy** → Statistical calculations and numerical operations
+* **Matplotlib & Seaborn** → Data visualization
+* **Scikit-learn** → Machine learning model development and evaluation 
 
 ---
 
