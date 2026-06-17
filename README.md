@@ -1,106 +1,118 @@
-# Medical Insurance Cost Prediction
+________________________________________
+Medical Insurance Cost Prediction V2
+________________________________________
+Tools Used
+•	Python 
+•	NumPy 
+•	Pandas 
+•	Matplotlib 
+•	Seaborn 
+•	Scikit-learn 
+•	Jupyter Notebook 
+________________________________________
+Project Overview
+This project analyzes raw medical insurance customer data and predicts insurance charges using machine learning techniques.
+The project follows a complete end-to-end machine learning workflow including data quality checking, feature engineering, exploratory data analysis (EDA), NumPy statistical analysis, data preprocessing, model building, model evaluation, model interpretation, and business insight generation.
+The objective is to identify the major factors affecting insurance costs and build an accurate prediction model.
+________________________________________
+Dataset Information
+The raw dataset contains customer demographic and health-related information such as:
+•	Age 
+•	Gender 
+•	BMI 
+•	Number of Children 
+•	Smoking Status 
+•	Region 
+•	Insurance Charges (Target Variable) 
+________________________________________
+Feature Engineering
+New features were created to improve customer analysis:
+Age Group
+•	Young 
+•	Adult 
+•	Senior 
+BMI Category
+•	Underweight 
+•	Normal 
+•	Overweight 
+•	Obese 
+These engineered features helped provide deeper insights into customer health profiles and insurance cost patterns.
+________________________________________
+Project Workflow
+•	Data Quality Check 
+•	Feature Engineering 
+•	Exploratory Data Analysis (EDA) 
+•	NumPy Statistical Analysis 
+•	Data Preprocessing 
+•	Linear Regression 
+•	Decision Tree Regressor 
+•	Random Forest Regressor 
+•	Actual vs Predicted Analysis 
+•	Model Comparison 
+•	Model Interpretation 
+•	Business Insights 
+•	Final Conclusion 
+________________________________________
+Libraries Used
+•	Pandas → Data analysis and manipulation 
+•	NumPy → Statistical calculations and numerical operations 
+•	Matplotlib & Seaborn → Data visualization 
+•	Scikit-learn → Machine learning model development and evaluation 
+________________________________________
+Machine Learning Models
+•	Linear Regression 
+•	Decision Tree Regressor 
+•	Random Forest Regressor 
+________________________________________
+Model Performance
+Model	MAE	RMSE	R² Score
+Linear Regression	4407.45	6066.77	0.80
+Decision Tree Regressor	2572.31	5653.86	0.83
+Random Forest Regressor	2646.85	4679.53	0.88
+________________________________________
+Model Interpretation
+Machine learning interpretation revealed that the following factors had the greatest impact on insurance charges:
+Linear Regression
+•	Smoking Status 
+•	Obesity (BMI Category) 
+•	Age 
+•	Number of Children 
+Random Forest Feature Importance
+•	Smoking Status 
+•	BMI 
+•	Age 
+•	Number of Children 
+The Random Forest model confirmed that lifestyle and health-related factors have the strongest influence on medical insurance costs.
+________________________________________
+Key Insights
+•	Smoking is the most significant factor increasing medical insurance charges. 
+•	Customers with high BMI, especially obese individuals, generally have higher insurance costs. 
+•	Age plays an important role in determining medical expenses. 
+•	Gender and region have relatively lower impact compared with health-related factors. 
+•	Random Forest achieved the best overall prediction performance with an R² Score of 0.88. 
+________________________________________
+Correlation Heatmap
+![Correlation Heatmap](IMAGE_LINK_HERE)
+________________________________________
+BMI vs Insurance Charges
+![BMI vs Charges](IMAGE_LINK_HERE)
+________________________________________
+Smoker vs Insurance Charges
+![Smoker vs Charges](IMAGE_LINK_HERE)
+________________________________________
+Actual vs Predicted Charges
+![Actual vs Predicted Charges](IMAGE_LINK_HERE)
+________________________________________
+Model Comparison
+![Model Comparison](IMAGE_LINK_HERE)
+________________________________________
+Random Forest Feature Importance
+![Feature Importance](IMAGE_LINK_HERE)
+________________________________________
+Conclusion
+This project successfully transformed raw medical insurance data into meaningful insights using an end-to-end machine learning workflow.
+Multiple regression algorithms were developed and evaluated, where Random Forest Regressor achieved the best performance with an R² Score of 0.88 and the lowest RMSE.
+The analysis showed that smoking habits, BMI, and age are the most important factors influencing insurance charges.
+Overall, this project demonstrates practical skills in raw data handling, feature engineering, exploratory data analysis, statistical analysis, machine learning, model interpretation, and business-oriented decision support.
+________________________________________
 
----
-
-## Tools Used
-
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Jupyter Notebook
-
----
-
-## Project Overview
-
-This project analyzes medical insurance data and predicts insurance charges using machine learning techniques. The project includes data cleaning, exploratory data analysis, visualization, preprocessing, feature engineering, and predictive modeling using multiple regression algorithms.
-
----
-
-## Project Workflow
-
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Feature Engineering
-* Data Preprocessing
-* Model Building
-* Model Evaluation
-* Feature Importance Analysis
-* Business Insights Generation
-
----
-
-## Libraries Used
-
-* Pandas for data analysis and manipulation
-* NumPy for numerical operations
-* Matplotlib and Seaborn for data visualization
-* Scikit-learn for machine learning model development and evaluation
-
----
-
-## Machine Learning Models
-
-* Linear Regression
-* Decision Tree Regressor
-* Random Forest Regressor
-
----
-
-## Model Performance
-
-| Model                   |     MAE |    RMSE | R² Score |
-| ----------------------- | ------: | ------: | -------: |
-| Linear Regression       | 4283.30 | 5783.64 |     0.78 |
-| Decision Tree Regressor | 3281.95 | 6924.26 |     0.69 |
-| Random Forest Regressor | 2600.44 | 4650.16 |     0.86 |
-
----
-
-## Key Insights
-
-* Smokers have significantly higher insurance charges.
-* Obesity is associated with higher healthcare costs.
-* Age and BMI are important factors affecting insurance charges.
-* Smoking is the strongest factor influencing insurance expenses.
-* Random Forest Regressor achieved the best prediction performance.
-
----
-
-## Correlation Heatmap
-
-![Heatmap](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%206%20Correlation%20Heatmap.png)
-
----
-
-## Smoker vs Insurance Charges
-
-![Smoker vs Charges](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%204%20Smoker%20vs%20Charges%20Chart.png)
-
----
-
-## Model Comparison
-
-![Model Comparison](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%208%20Model%20Comparison%20Chart.png)
-
----
-
-## Random Forest Feature Importance
-
-![Feature Importance](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%209%20Random%20Forest%20Feature%20Importance%20Chart.png)
-
----
-
-## Actual vs Predicted Charges
-
-![Actual vs Predicted Charges](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/Screenshot%2010%20Actual%20vs%20Predicted%20Charges%20Chart.png)
-
----
-
-## Conclusion
-
-This project successfully analyzed medical insurance data using Python and machine learning techniques. Multiple regression models were trained and compared, with Random Forest Regressor achieving the best performance. The project demonstrates practical skills in data cleaning, exploratory data analysis, visualization, preprocessing, feature engineering, and predictive modeling.
