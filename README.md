@@ -104,16 +104,16 @@ These engineered features helped provide deeper insights into customer health pr
 Machine learning interpretation revealed that the following factors had the greatest impact on insurance charges:
 
 * **Linear Regression Coefficients**
- * Smoking Status
- * Obesity (BMI Category)
- * Age
- * Number of Children 
+  * Smoking Status
+  * Obesity (BMI Category)
+  * Age
+  * Number of Children 
 
 * **Random Forest Feature Importance**
- * Smoking Status
- * BMI
- * Age
- * Number of Children 
+  * Smoking Status
+  * BMI
+  * Age
+  * Number of Children 
 
 The Random Forest model confirmed that lifestyle and health-related factors have the strongest influence on medical insurance costs.
 
