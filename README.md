@@ -130,32 +130,32 @@ The Random Forest model confirmed that lifestyle and health-related factors have
 ---
 
 ## BMI vs Insurance Charges
-![BMI vs Charges]([IMAGE_LINK_HERE](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/05_BMI_vs_Charges.png))
+![BMI vs Charges]([IMAGE_LINK_HERE](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/05_BMI_vs_Charges.png)
 
 ---
 
 ## Smoker vs Insurance Charges
-![Smoker vs Charges]([IMAGE_LINK_HERE](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/08_Smoker_vs_Charges.png))
+![Smoker vs Charges]([IMAGE_LINK_HERE](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/08_Smoker_vs_Charges.png)
 
 ---
 
 ## Correlation Heatmap
-![Correlation Heatmap]([IMAGE_LINK_HERE](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/14_Correlation_Heatmap.png))
+![Correlation Heatmap]([IMAGE_LINK_HERE](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/14_Correlation_Heatmap.png)
 
 ---
 
 ## Actual vs Predicted Charges
-![Actual vs Predicted Charges]([IMAGE_LINK_HERE](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/15_Actual_vs_Predicted.png))
+![Actual vs Predicted Charges]([IMAGE_LINK_HERE](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/15_Actual_vs_Predicted.png)
 
 ---
 
 ## Model Comparison
-![Model Comparison]([IMAGE_LINK_HERE](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/16_Model_Comparison.png))
+![Model Comparison]([IMAGE_LINK_HERE](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/16_Model_Comparison.png)
 
 ---
 
 ## Random Forest Feature Importance
-![Feature Importance]([IMAGE_LINK_HERE](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/18_Random_Forest_Feature_Importance.png))
+![Feature Importance]([IMAGE_LINK_HERE](https://github.com/meharbansingh25/Medical-Insurance-Cost-Prediction/blob/main/Medical%20Insurance%20Cost%20Prediction/Images/18_Random_Forest_Feature_Importance.png)
 
 ---
 
