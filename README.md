@@ -91,12 +91,6 @@ These engineered features helped provide deeper insights into customer health pr
 ---
 
 ## Model Performance
-Model	MAE	RMSE	R² Score
-Linear Regression	4407.45	6066.77	0.80
-Decision Tree Regressor	2572.31	5653.86	0.83
-Random Forest Regressor	2646.85	4679.53	0.88
-
-## Model Performance
 
 | Model                   |     MAE |    RMSE | R² Score |
 | ----------------------- | ------: | ------: | -------: |
@@ -107,16 +101,15 @@ Random Forest Regressor	2646.85	4679.53	0.88
 ---
 
 ## Model Interpretation
-
 Machine learning interpretation revealed that the following factors had the greatest impact on insurance charges:
 
-**Linear Regression Coefficients**
+* **Linear Regression Coefficients**
  * Smoking Status
  * Obesity (BMI Category)
  * Age
  * Number of Children 
 
- **Random Forest Feature Importance**
+* **Random Forest Feature Importance**
  * Smoking Status
  * BMI
  * Age
