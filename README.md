@@ -1,47 +1,60 @@
 ________________________________________
-# Medical Insurance Cost Prediction V2
-________________________________________
+# Medical Insurance Cost Prediction 
+
+---
+
 ## Tools Used
 
-•	Python 
-•	NumPy 
-•	Pandas 
-•	Matplotlib 
-•	Seaborn 
-•	Scikit-learn 
-•	Jupyter Notebook 
-________________________________________
-##Project Overview
+*	Python
+*	NumPy
+*	Pandas
+*	Matplotlib
+*	Seaborn
+*	Scikit-learn
+*	Jupyter Notebook
+
+---
+
+## Project Overview
 
 This project analyzes raw medical insurance customer data and predicts insurance charges using machine learning techniques.
-The project follows a complete end-to-end machine learning workflow including data quality checking, feature engineering, exploratory data analysis (EDA), NumPy statistical analysis, data preprocessing, model building, model evaluation, model interpretation, and business insight generation.
-The objective is to identify the major factors affecting insurance costs and build an accurate prediction model.
-________________________________________
-## Dataset Information
 
+The project follows a complete end-to-end machine learning workflow including data quality checking, feature engineering, exploratory data analysis (EDA), NumPy statistical analysis, data preprocessing, model building, model evaluation, model interpretation, and business insight generation.
+
+The objective is to identify the major factors affecting insurance costs and build an accurate prediction model.
+
+---
+
+## Dataset Information
 The raw dataset contains customer demographic and health-related information such as:
-•	Age 
-•	Gender 
-•	BMI 
-•	Number of Children 
-•	Smoking Status 
-•	Region 
-•	Insurance Charges (Target Variable) 
-________________________________________
+
+* Age
+* Gender
+* BMI
+* Number of Children
+* Smoking Status
+* Region
+* Insurance Charges (Target Variable) 
+
+---
 
 ## Feature Engineering
 New features were created to improve customer analysis:
-Age Group
-•	Young 
-•	Adult 
-•	Senior 
-BMI Category
-•	Underweight 
-•	Normal 
-•	Overweight 
-•	Obese 
+
+* **Age Group**
+  * Young
+  * Adult
+  * Senior 
+
+* **BMI Category**
+  * Underweight
+  * Normal
+  * Overweight
+  * Obese 
+
 These engineered features helped provide deeper insights into customer health profiles and insurance cost patterns.
-________________________________________
+
+---
 
 ## Project Workflow
 •	Data Quality Check 
