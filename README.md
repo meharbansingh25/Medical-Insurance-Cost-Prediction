@@ -96,6 +96,14 @@ Linear Regression	4407.45	6066.77	0.80
 Decision Tree Regressor	2572.31	5653.86	0.83
 Random Forest Regressor	2646.85	4679.53	0.88
 
+## Model Performance
+
+| Model                   |     MAE |    RMSE | R² Score |
+| ----------------------- | ------: | ------: | -------: |
+| Linear Regression       | 4407.45 | 6066.77 |     0.80 |
+| Decision Tree Regressor | 2572.31 | 5653.86 |     0.83 |
+| Random Forest Regressor | 2646.85 | 4679.53 |     0.88 |
+
 ---
 
 ## Model Interpretation
